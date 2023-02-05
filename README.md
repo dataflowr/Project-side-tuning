@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+- adapt method to other datasets in an incremental learning fashion: training on a first set of classes and adding other classes after
+- integrate on Taskonomy dataset by gradually adding new prediction tasks
+
+-------------------
 # `Side-tuning`: Network Adaptation via Additive Side Networks</h1>
 
 <div align="center">
